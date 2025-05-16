@@ -10,7 +10,7 @@
 
 |歌名|歌手|QQ音乐|网易云|油管|抖音|歌词|
 |:----|:----|:----|:----|:----|:----|:----|
-|藏北双湖传统联唱<br>༄༅།།བྱང་སྟོད་མཚེའུ་གཉིས་སྲོལ་རྒྱུན་ཉམས་འགྱུར་ཞབས་འབྲོ།|噶桑旺堆、噶玛仁青<br>སྐལ་བཟང་དབང་འདུས​​། སྐར་མ་རིན་ཆེན​།|[链接](https://c6.y.qq.com/base/fcgi-bin/u?__=7nTXNdaoKXrv)| |[链接](https://youtu.be/d59O1EBb56k?si=LQIwpyQc3-OPMFmK)| |[▼](#藏北双湖)|
+|藏北双湖传统联唱 ༄༅།།བྱང་སྟོད་མཚེའུ་གཉིས་སྲོལ་རྒྱུན་ཉམས་འགྱུར་ཞབས་འབྲོ།|噶桑旺堆 སྐལ་བཟང་དབང་འདུས​​།、噶玛仁青 སྐར་མ་རིན་ཆེན​། |[链接](https://c6.y.qq.com/base/fcgi-bin/u?__=7nTXNdaoKXrv)| |[链接](https://youtu.be/d59O1EBb56k?si=LQIwpyQc3-OPMFmK)| |[▼](#藏北双湖)|
 |金色山<br>༄༅།།གསེར་གྱི་རི།|美朵玉措|[链接](https://y.qq.com/n/ryqq/songDetail/004Sj2vo3AOg1F)| |[链接](https://youtu.be/_UiFlWY6MDc?si=iea6opE9_ydTxCCe)| | |
 |强巴曲桑|才让罗布|[链接](https://y.qq.com/n/ryqq/songDetail/000aqscC4FM3CO)|[链接](https://music.163.com/#/song?id=2073039098)|[链接](https://www.youtube.com/watch?v=7xkQGGZ56k0)| |[▼](#强巴曲桑)|
 |羌阿克卓巴|让桑巴旦|[链接](https://y.qq.com/n/ryqq/songDetail/002clgFn3ymkYm)| | | [链接](https://v.douyin.com/TboXDVNjZt0/)|[▼](#羌阿克卓巴) |

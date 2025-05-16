@@ -8,40 +8,40 @@
 
 # 目录
 
-|歌名|QQ音乐|网易云|油管|抖音|藏文歌词|
-|:----|:----|:----|:----|:----|:----|
-|藏北双湖传统联唱|[链接](https://c6.y.qq.com/base/fcgi-bin/u?__=7nTXNdaoKXrv)| |[链接](https://youtu.be/d59O1EBb56k?si=LQIwpyQc3-OPMFmK)| |[▼](#藏北双湖)|
-|金色山|[链接](https://y.qq.com/n/ryqq/songDetail/004Sj2vo3AOg1F)| |[链接](https://youtu.be/_UiFlWY6MDc?si=iea6opE9_ydTxCCe)| | |
-|强巴曲桑|[链接](https://y.qq.com/n/ryqq/songDetail/000aqscC4FM3CO)|[链接](https://music.163.com/#/song?id=2073039098)|[链接](https://www.youtube.com/watch?v=7xkQGGZ56k0)| |[▼](#强巴曲桑)|
-|羌阿克卓巴|[链接](https://y.qq.com/n/ryqq/songDetail/002clgFn3ymkYm)| | | | |
-|羌塘民族迎客之歌/欢迎你们的到来|[链接](https://y.qq.com/n/ryqq/songDetail/001JskY94Zc121)| | | |[▼](#迎客之歌)|
-|雪域歌舞之海|[链接](https://y.qq.com/n/ryqq/songDetail/003P9pAN3LBctX)| | | | |
-|友好锅庄|[链接](https://y.qq.com/n/ryqq/songDetail/004OfNqE33j6p2)| | |[链接](https://v.douyin.com/0Za6_mxi6sk/)|[▼](#友好锅庄)|
-|吉祥八宝|[链接](https://y.qq.com/n/ryqq/songDetail/0027KSHR3ZCp5C)| | | | |
-|昨夜|[链接](https://y.qq.com/n/ryqq/songDetail/003KldiQ44CUoi)| | | |[▼](#昨夜)|
-|央金拉姆的身语| |[链接](https://music.163.com/#/song?id=2639762981)| |[链接](https://v.douyin.com/lBkH_MID6K8/)| |
-|雅砻江萨| | |[链接](https://www.youtube.com/watch?v=I_D13fwxvIU)|[链接](https://v.douyin.com/Nk08BPFPUbY/)|[▼](#雅砻江萨)|
-|罗科锅庄|[链接](https://y.qq.com/n/ryqq/songDetail/004ZTgyh38nan6)|[链接](https://music.163.com/#/song?id=2104569809) | | |[▼](#罗科锅庄)|
-|尕瓦亚珠|[链接](https://y.qq.com/n/ryqq/songDetail/002wjlUO2uTShk)| | | |[▼](#尕瓦亚珠)|
-|铁布锅庄（一）|[链接](https://y.qq.com/n/ryqq/songDetail/000EgCUq2rnxzR)| | | ||
-|故乡羌塘牧区| |[链接](https://music.163.com/#/song?id=2630232081)| | | |
-|人生兴衰|[链接](https://y.qq.com/n/ryqq/songDetail/001lzOc10PNZv2)| | | | |
-|昌都央切（三号）锅庄|[链接](https://y.qq.com/n/ryqq/songDetail/000ex4VT0MuzlK)| | | | |
-|热瓦乡郭庄| |[链接](https://music.163.com/#/song?id=2626791505)| | |[▼](#热瓦乡郭庄)|
-|献给你|[链接](https://y.qq.com/n/ryqq/songDetail/003jQTk82fNxPu)| | | |[▼](#献给你)|
-|索亚拉山| |[链接](https://music.163.com/#/song?id=1931777047)| | |[▼](#索亚拉山)|
-|扎西舞|[链接](https://c6.y.qq.com/base/fcgi-bin/u?__=PKNZ3LaoKwJY)| | |[链接](https://v.douyin.com/lBg7nmsw9po/)|[▼](#扎西舞)|
-|隆巴琼琼|[链接](https://y.qq.com/n/ryqq/songDetail/0011NlX34copIU)| | | | |
-|爱的姑娘| | |[链接](https://www.youtube.com/watch?v=8Y3HMNNNkuU)|[链接](https://v.douyin.com/lQKrasiMxpI/)| |
-|故乡情/牧童|[链接](https://y.qq.com/n/ryqq/songDetail/003dsTLj0KRn4h)| | | |[▼](#故乡情)|
-|青春欢舞|[链接](https://y.qq.com/n/ryqq/songDetail/0003mlhm3Eo30W)| | | |[▼](#青春欢舞)|
-|Karma Trazum| | |[链接](https://www.youtube.com/watch?v=d-MCn4qxMsY)| |[▼](#KarmaTrazum)|
-|Tendrel Zomlu| | |[链接](https://youtu.be/gOU5ohgd9mA?si=y1Tsp-bnUlhGjyJD)| | |
+|歌名|歌手|QQ音乐|网易云|油管|抖音|歌词|
+|:----|:----|:----|:----|:----|:----|:----|
+|藏北双湖传统联唱<br>༄༅།།བྱང་སྟོད་མཚེའུ་གཉིས་སྲོལ་རྒྱུན་ཉམས་འགྱུར་ཞབས་འབྲོ།|噶桑旺堆、噶玛仁青<br>སྐལ་བཟང་དབང་འདུས​​། སྐར་མ་རིན་ཆེན​།|[链接](https://c6.y.qq.com/base/fcgi-bin/u?__=7nTXNdaoKXrv)| |[链接](https://youtu.be/d59O1EBb56k?si=LQIwpyQc3-OPMFmK)| |[▼](#藏北双湖)|
+|金色山<br>༄༅།།གསེར་གྱི་རི།|美朵玉措|[链接](https://y.qq.com/n/ryqq/songDetail/004Sj2vo3AOg1F)| |[链接](https://youtu.be/_UiFlWY6MDc?si=iea6opE9_ydTxCCe)| | |
+|强巴曲桑|才让罗布|[链接](https://y.qq.com/n/ryqq/songDetail/000aqscC4FM3CO)|[链接](https://music.163.com/#/song?id=2073039098)|[链接](https://www.youtube.com/watch?v=7xkQGGZ56k0)| |[▼](#强巴曲桑)|
+|羌阿克卓巴|让桑巴旦|[链接](https://y.qq.com/n/ryqq/songDetail/002clgFn3ymkYm)| | | [链接](https://v.douyin.com/TboXDVNjZt0/)|[▼](#羌阿克卓巴) |
+|羌塘民族迎客之歌/欢迎你们的到来||[链接](https://y.qq.com/n/ryqq/songDetail/001JskY94Zc121)| | | |[▼](#迎客之歌)|
+|雪域歌舞之海||[链接](https://y.qq.com/n/ryqq/songDetail/003P9pAN3LBctX)| | |[链接](https://v.douyin.com/Mk9Xh4cRZug/) | |
+|友好锅庄||[链接](https://y.qq.com/n/ryqq/songDetail/004OfNqE33j6p2)| | |[链接](https://v.douyin.com/0Za6_mxi6sk/)|[▼](#友好锅庄)|
+|吉祥八宝<br>༄༅།།བཀྲ་ཤེས་རྟགས་བརྒྱད།|孙免<br>གསུང་སྨན།|[链接](https://y.qq.com/n/ryqq/songDetail/0027KSHR3ZCp5C)| | | | |
+|昨夜||[链接](https://y.qq.com/n/ryqq/songDetail/003KldiQ44CUoi)| | | |[▼](#昨夜)|
+|央金拉姆的身语|| |[链接](https://music.163.com/#/song?id=2639762981)| |[链接](https://v.douyin.com/lBkH_MID6K8/)|[▼](#昨夜) |
+|雅砻江萨|| | |[链接](https://www.youtube.com/watch?v=I_D13fwxvIU)|[链接](https://v.douyin.com/Nk08BPFPUbY/)|[▼](#雅砻江萨)|
+|罗科锅庄||[链接](https://y.qq.com/n/ryqq/songDetail/004ZTgyh38nan6)|[链接](https://music.163.com/#/song?id=2104569809) | | |[▼](#罗科锅庄)|
+|尕瓦亚珠||[链接](https://y.qq.com/n/ryqq/songDetail/002wjlUO2uTShk)| | | |[▼](#尕瓦亚珠)|
+|铁布锅庄（一）||[链接](https://y.qq.com/n/ryqq/songDetail/000EgCUq2rnxzR)| | | ||
+|故乡羌塘牧区|| |[链接](https://music.163.com/#/song?id=2630232081)| | | |
+|人生兴衰||[链接](https://y.qq.com/n/ryqq/songDetail/001lzOc10PNZv2)| | | | |
+|昌都央切三号锅庄||[链接](https://y.qq.com/n/ryqq/songDetail/000ex4VT0MuzlK)| | |[链接](https://v.douyin.com/BtmenVsCcqE/) |[▼](#央切三号) |
+|热瓦乡郭庄|| |[链接](https://music.163.com/#/song?id=2626791505)| | |[▼](#热瓦乡郭庄)|
+|献给你<br>༄༅།།ཁྱོད​་ལ་འབུལ​།|开周江才<br>མཁས་གྲུབ་རྒྱལ་མཚན།​|[链接](https://y.qq.com/n/ryqq/songDetail/003jQTk82fNxPu)| | | |[▼](#献给你)|
+|索亚拉山|| |[链接](https://music.163.com/#/song?id=1931777047)| | |[▼](#索亚拉山)|
+|扎西舞||[链接](https://c6.y.qq.com/base/fcgi-bin/u?__=PKNZ3LaoKwJY)| | |[链接](https://v.douyin.com/lBg7nmsw9po/)|[▼](#扎西舞)|
+|隆巴琼琼||[链接](https://y.qq.com/n/ryqq/songDetail/0011NlX34copIU)| | | | |
+|爱的姑娘|| | |[链接](https://www.youtube.com/watch?v=8Y3HMNNNkuU)|[链接](https://v.douyin.com/lQKrasiMxpI/)| |
+|故乡情/牧童||[链接](https://y.qq.com/n/ryqq/songDetail/003dsTLj0KRn4h)| | | |[▼](#故乡情)|
+|青春欢舞||[链接](https://y.qq.com/n/ryqq/songDetail/0003mlhm3Eo30W)| | | |[▼](#青春欢舞)|
+|Karma Trazum|| | |[链接](https://www.youtube.com/watch?v=d-MCn4qxMsY)| |[▼](#KarmaTrazum)|
+|Tendrel Zomlu|| | |[链接](https://youtu.be/gOU5ohgd9mA?si=y1Tsp-bnUlhGjyJD)| | |
 
 
 # 藏文歌词
 
-## <a id="藏北双湖">藏北双湖传统联唱（第一部） ༄༅།།བྱང་སྟོད་མཚེའུ་གཉིས་སྲོལ་རྒྱུན་ཉམས་འགྱུར་ཞབས་འབྲོ།</a>
+## <a id="藏北双湖">藏北双湖传统联唱（第一部） </a>
 
 歌手：噶玛仁青 སྐར་མ་རིན་ཆེན​།、噶桑旺堆 སྐལ་བཟང་དབང་འདུས​​།
 
@@ -106,6 +106,8 @@
 
 ## <a id="强巴曲桑">强巴曲桑</a>
 
+歌手：
+
 ང་ཚོའི་ལུང་པའི་ཕུ་ནས།  
 བྱམས་པ་ཆོས་བཟང་ལགས།  
 འབྲི་མོ་སྤུ་གྲྭ་ལེགས་པ།  
@@ -147,6 +149,8 @@
 མཁས་པ་བཟང་སོང་ལགས་།  
 
 ## <a id="迎客之歌">羌塘民族迎客之歌/欢迎你们的到来</a>
+
+歌手：
 
 ཕེབས་ཤོག་ཕེབས་ཤོག།  
 བྱང་ཐང་འདི་རུ་ཕེབས་ཤོག།  
@@ -194,9 +198,13 @@
 
 ## <a id="友好锅庄">友好锅庄</a>
 
+歌手：
+
 待补充
 
 ## <a id="昨夜">昨夜</a>
+
+歌手：
 
 མདང་ནུབ་ཆར་བ་བབས་བྱུང།  
 ཆར་བའི་སྒྲ་ལ་ཉན་ན།  
@@ -239,9 +247,13 @@
 
 ## <a id="雅砻江萨">雅砻江萨</a>
 
+歌手：
+
 待补充
 
 ## <a id="罗科锅庄">罗科锅庄</a>
+
+歌手：
 
 ### 指歌 (09:32)
 

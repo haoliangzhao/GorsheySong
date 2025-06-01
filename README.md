@@ -10,16 +10,16 @@
 
 |歌名|歌手|QQ音乐|网易云|油管|抖音|歌词|
 |:----|:----|:----|:----|:----|:----|:----|
-|藏北双湖传统联唱（第一部）<br>༄༅།།བྱང་སྟོད་མཚེའུ་གཉིས་སྲོལ་རྒྱུན་ཉམས་འགྱུར་ཞབས་འབྲོ།|噶桑旺堆 སྐལ་བཟང་དབང་འདུས​​།<br>噶玛仁青 སྐར་མ་རིན་ཆེན​། |[链接](https://c6.y.qq.com/base/fcgi-bin/u?__=7nTXNdaoKXrv)| |[链接](https://youtu.be/d59O1EBb56k?si=LQIwpyQc3-OPMFmK)| |[▼](#藏北双湖)|
-|金色山 ༄༅།།གསེར་གྱི་རི། / རི་ལ་ཡ་མོ་གསེར་རི།|美朵玉措|[链接](https://y.qq.com/n/ryqq/songDetail/004Sj2vo3AOg1F)| |[链接](https://youtu.be/_UiFlWY6MDc?si=iea6opE9_ydTxCCe)| | |
-|强巴曲桑 ༄༅།།བྱམས་པ་ཆོས་བཟང་།|才让罗布 ཚེ་རིང་ནོར་བུ།|[链接](https://y.qq.com/n/ryqq/songDetail/000aqscC4FM3CO)|[链接](https://music.163.com/#/song?id=2073039098)|[链接](https://www.youtube.com/watch?v=7xkQGGZ56k0)| |[▼](#强巴曲桑)|
-|羌阿克卓巴 ༄༅།།བྱང་ཨ་ཁུ་འབྲོག་པ།|让桑巴旦 རང་གསལ་དཔལ་ལྡན​།|[链接](https://y.qq.com/n/ryqq/songDetail/002clgFn3ymkYm)| | | [链接](https://v.douyin.com/TboXDVNjZt0/)|[▼](#羌阿克卓巴) |
-|羌塘民族迎客之歌 / 欢迎你们的到来<br>༄༅།།ཕེབས་ཤོག / ཁྱེད་ཉིད་བྱང་ཐང་ཕེབས་པ་དཀའ་བསུ་ཞུ།|让桑巴旦 རང་གསལ་དཔལ་ལྡན​།|[链接](https://y.qq.com/n/ryqq/songDetail/001JskY94Zc121)| | | |[▼](#迎客之歌)|
-|雪域歌舞之海 ༄༅།།གངས་ལྗོངས་གླུ་གར་གྱི་རྒྱ་མཚོ།|让桑巴旦 རང་གསལ་དཔལ་ལྡན​།|[链接](https://y.qq.com/n/ryqq/songDetail/003P9pAN3LBctX)| | |[链接](https://v.douyin.com/Mk9Xh4cRZug/) | |
-|友好锅庄 ༄༅།།མཛའ་མཐུན་མུ་འབྲེལ་སྐོར་གཞས།|让桑巴旦 རང་གསལ་དཔལ་ལྡན​།<br>娜秀旦巴 ནག་ཤོད་བསྟན་པ།|[链接](https://y.qq.com/n/ryqq/songDetail/004OfNqE33j6p2)| | |[链接](https://v.douyin.com/0Za6_mxi6sk/)|[▼](#友好锅庄)|
-|吉祥八宝 ༄༅།།བཀྲ་ཤེས་རྟགས་བརྒྱད།|孙免 གསུང་སྨན།|[链接](https://y.qq.com/n/ryqq/songDetail/0027KSHR3ZCp5C)| | | | |
-|昨夜 ༄༅།།མདང་ནུབ།|索南多杰 བསོད་ནམས་སྟོབས་རྒྱལ།<br>泽吾多杰 རྩེ་བུ་རྡོ་རྗེ།|[链接](https://y.qq.com/n/ryqq/songDetail/003KldiQ44CUoi)| | | [链接](https://v.douyin.com/69Lt5qsQAfU/)|[▼](#昨夜)|
-|央金拉姆的身语 ༄༅།།དབྱངས་ཅན་ལྷ་མོའི་སྐུ་གསུང་ཐུགས་ལ་འདུས། || |[链接](https://music.163.com/#/song?id=2639762981)| |[链接](https://v.douyin.com/lBkH_MID6K8/)|[▼](#昨夜) |
+|藏北双湖传统联唱（第一部<br>༄༅།།བྱང་སྟོད་མཚེའུ་གཉིས་སྲོལ་རྒྱུན་ཉམས་འགྱུར་ཞབས་འབྲོ།|噶桑旺堆、噶玛仁青<br>སྐལ་བཟང་དབང་འདུས​​། སྐར་མ་རིན་ཆེན​།|[链接](https://c6.y.qq.com/base/fcgi-bin/u?__=7nTXNdaoKXrv)| |[链接](https://youtu.be/d59O1EBb56k?si=LQIwpyQc3-OPMFmK)| |[▼](#藏北双湖)|
+|金色山<br>༄༅།།གསེར་གྱི་རི། / རི་ལ་ཡ་མོ་གསེར་རི།|美朵玉措|[链接](https://y.qq.com/n/ryqq/songDetail/004Sj2vo3AOg1F)| |[链接](https://youtu.be/_UiFlWY6MDc?si=iea6opE9_ydTxCCe)| | |
+|强巴曲桑<br>༄༅།།བྱམས་པ་ཆོས་བཟང་།|才让罗布<br>ཚེ་རིང་ནོར་བུ།|[链接](https://y.qq.com/n/ryqq/songDetail/000aqscC4FM3CO)|[链接](https://music.163.com/#/song?id=2073039098)|[链接](https://www.youtube.com/watch?v=7xkQGGZ56k0)| |[▼](#强巴曲桑)|
+|羌阿克卓巴<br>༄༅།།བྱང་ཨ་ཁུ་འབྲོག་པ།|让桑巴旦<br>རང་གསལ་དཔལ་ལྡན​།|[链接](https://y.qq.com/n/ryqq/songDetail/002clgFn3ymkYm)| | | [链接](https://v.douyin.com/TboXDVNjZt0/)|[▼](#羌阿克卓巴) |
+|羌塘民族迎客之歌 / 欢迎你们的到来<br>༄༅།།ཕེབས་ཤོག / ཁྱེད་ཉིད་བྱང་ཐང་ཕེབས་པ་དཀའ་བསུ་ཞུ།|让桑巴旦<br>རང་གསལ་དཔལ་ལྡན​།|[链接](https://y.qq.com/n/ryqq/songDetail/001JskY94Zc121)| | | |[▼](#迎客之歌)|
+|雪域歌舞之海<br>༄༅།།གངས་ལྗོངས་གླུ་གར་གྱི་རྒྱ་མཚོ།|让桑巴旦<br>རང་གསལ་དཔལ་ལྡན​།|[链接](https://y.qq.com/n/ryqq/songDetail/003P9pAN3LBctX)| | |[链接](https://v.douyin.com/Mk9Xh4cRZug/) | |
+|友好锅庄<br>༄༅།།མཛའ་མཐུན་མུ་འབྲེལ་སྐོར་གཞས།|让桑巴旦、娜秀旦巴<br>རང་གསལ་དཔལ་ལྡན​། ནག་ཤོད་བསྟན་པ།|[链接](https://y.qq.com/n/ryqq/songDetail/004OfNqE33j6p2)| | |[链接](https://v.douyin.com/0Za6_mxi6sk/)|[▼](#友好锅庄)|
+|吉祥八宝<br>༄༅།།བཀྲ་ཤེས་རྟགས་བརྒྱད།|孙免<br>གསུང་སྨན།|[链接](https://y.qq.com/n/ryqq/songDetail/0027KSHR3ZCp5C)| | | | |
+|昨夜<br>༄༅།།མདང་ནུབ།|索南多杰、泽吾多杰<br>བསོད་ནམས་སྟོབས་རྒྱལ། རྩེ་བུ་རྡོ་རྗེ།|[链接](https://y.qq.com/n/ryqq/songDetail/003KldiQ44CUoi)| | | [链接](https://v.douyin.com/69Lt5qsQAfU/)|[▼](#昨夜)|
+|央金拉姆的身语<br>༄༅།།དབྱངས་ཅན་ལྷ་མོའི་སྐུ་གསུང་ཐུགས་ལ་འདུས། || |[链接](https://music.163.com/#/song?id=2639762981)| |[链接](https://v.douyin.com/lBkH_MID6K8/)|[▼](#昨夜) |
 |雅砻江萨|| | |[链接](https://www.youtube.com/watch?v=I_D13fwxvIU)|[链接](https://v.douyin.com/Nk08BPFPUbY/)|[▼](#雅砻江萨)|
 |罗科锅庄||[链接](https://y.qq.com/n/ryqq/songDetail/004ZTgyh38nan6)|[链接](https://music.163.com/#/song?id=2104569809) | | |[▼](#罗科锅庄)|
 |尕瓦亚珠||[链接](https://y.qq.com/n/ryqq/songDetail/002wjlUO2uTShk)| | | |[▼](#尕瓦亚珠)|
@@ -28,15 +28,15 @@
 |人生兴衰||[链接](https://y.qq.com/n/ryqq/songDetail/001lzOc10PNZv2)| | | | |
 |昌都央切三号锅庄||[链接](https://y.qq.com/n/ryqq/songDetail/000ex4VT0MuzlK)| | |[链接](https://v.douyin.com/BtmenVsCcqE/) |[▼](#央切三号) |
 |热瓦乡郭庄|| |[链接](https://music.163.com/#/song?id=2626791505)| | |[▼](#热瓦乡郭庄)|
-|献给你 ༄༅།།ཁྱོད​་ལ་འབུལ​།|开周江才 མཁས་གྲུབ་རྒྱལ་མཚན།​|[链接](https://y.qq.com/n/ryqq/songDetail/003jQTk82fNxPu)| | | |[▼](#献给你)|
+|献给你<br>༄༅།།ཁྱོད​་ལ་འབུལ​།|开周江才<br>མཁས་གྲུབ་རྒྱལ་མཚན།​|[链接](https://y.qq.com/n/ryqq/songDetail/003jQTk82fNxPu)| | | |[▼](#献给你)|
 |索亚拉山|| |[链接](https://music.163.com/#/song?id=1931777047)| | |[▼](#索亚拉山)|
 |扎西舞||[链接](https://c6.y.qq.com/base/fcgi-bin/u?__=PKNZ3LaoKwJY)| | |[链接](https://v.douyin.com/lBg7nmsw9po/)|[▼](#扎西舞)|
 |隆巴琼琼||[链接](https://y.qq.com/n/ryqq/songDetail/0011NlX34copIU)| | | | |
 |爱的姑娘|| | |[链接](https://www.youtube.com/watch?v=8Y3HMNNNkuU)|[链接](https://v.douyin.com/lQKrasiMxpI/)| |
 |故乡情/牧童||[链接](https://y.qq.com/n/ryqq/songDetail/003dsTLj0KRn4h)| | | |[▼](#故乡情)|
 |青春欢舞||[链接](https://y.qq.com/n/ryqq/songDetail/0003mlhm3Eo30W)| | | |[▼](#青春欢舞)|
+|吉祥赞歌<br>༄༅།།རྟེན་འབྲེལ་འཛོམས་གླུ།|多要多日杰<br>དོན་ཡོད་རྡོ་རྗེ།| | |[链接](https://youtu.be/9Ukd5wNsTE4?si=dF-DXq1K31Kr2gn3)| |[▼](#吉祥赞歌)|
 |Karma Trazum|| | |[链接](https://www.youtube.com/watch?v=d-MCn4qxMsY)| |[▼](#KarmaTrazum)|
-|吉祥赞歌 ༄༅།།རྟེན་འབྲེལ་འཛོམས་གླུ།|多要多日杰 དོན་ཡོད་རྡོ་རྗེ།| | |[链接](https://youtu.be/9Ukd5wNsTE4?si=dF-DXq1K31Kr2gn3)| |[▼](#吉祥赞歌)|
 
 
 # 藏文歌词
